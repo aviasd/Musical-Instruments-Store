@@ -14,7 +14,7 @@ You will see all the information in the console
 Text Files Tables:
 
 | Name Of File     | Output        |
-|:----------------:|:-------------|
+|:----------------:|:--------------|
 | instruments1.txt | normal output |
 | instruments2.txt | normal output - There are no instruments in the store currently |
 | instruments3.txt | error - Price must be a positive number! |
